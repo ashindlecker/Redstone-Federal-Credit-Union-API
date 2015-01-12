@@ -1,0 +1,57 @@
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\App.xbf
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Redstone Federal Credit Union.Windows.xr.xml
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Redstone Federal Credit Union.Windows.exe
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Redstone Federal Credit Union.Windows.pdb
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\resources.pri
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\AppxManifest.xml
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Redstone Federal Credit Union.Windows.build.appxrecipe
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\App.g.i.cs
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\App.g.cs
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\XamlTypeInfo.g.cs
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\App.xaml
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\App.xbf
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\XamlSaveStateFile.xml
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\Redstone Federal Credit Union.Windows.exe
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\Redstone Federal Credit Union.Windows.pdb
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\priconfig.xml
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\priconfig.xml.intermediate
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\layout.resfiles
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\layout.resfiles.intermediate
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\resources.resfiles
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\resources.resfiles.intermediate
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\pri.resfiles
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\pri.resfiles.intermediate
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\qualifiers.txt
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\qualifiers.txt.intermediate
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\ProjectArchitectures.txt
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\LoginPage.xbf
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\LoginPage.g.i.cs
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\LoginPage.g.cs
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\LoginPage.xaml
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\LoginPage.xbf
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\RedstoneAPI.dll
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\RedstoneAPI.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\Redstone Federal Credit Union.Windows.csprojResolveAssemblyReference.cache
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\Redstone Federal Credit Union.Windows.csproj.GenerateResource.Cache
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\ConfirmationPage.xbf
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\ConfirmationPage.g.i.cs
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\ConfirmationPage.g.cs
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\ConfirmationPage.xaml
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\ConfirmationPage.xbf
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\MemberPage.xbf
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\MemberPage.g.i.cs
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\MemberPage.g.cs
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\MemberPage.xaml
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\MemberPage.xbf
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\TransactionsPage.g.i.cs
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\TransactionsPage.g.cs
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\TransactionsPage.xaml
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\TransactionsPage.xbf
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\TransactionsPage.xbf
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\BackgroundBalanceTask.winmd
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\BackgroundBalanceTask.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\BackgroundBalanceTask.pri

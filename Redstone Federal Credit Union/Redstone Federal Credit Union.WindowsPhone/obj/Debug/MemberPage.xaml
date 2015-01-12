@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="Redstone_Federal_Credit_Union.MemberPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Redstone_Federal_Credit_Union"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    
+    <Page.Resources>
+        <DataTemplate x:Name="itemTemplate">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                
+                <TextBlock Text="{Binding AccountType}" Grid.Column="0" Grid.Row="0" FontSize="50"/>
+                <TextBlock Text="{Binding AccountNumber}" Grid.Column="0" Grid.Row="1" FontSize="20"/>
+                <TextBlock Text="{Binding Balance}" Grid.Column="0" Grid.Row="2" FontSize="30"/>
+            </Grid>
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        
+        <ListView x:ConnectionId='1' x:Name="accountsList" Grid.Row="0" Grid.Column="0" Width="auto" Height="auto"                                           FontSize="80" ItemTemplate="{StaticResource itemTemplate}" SelectionMode="Single" Margin="0">
+            <ListView.Header>Accounts</ListView.Header>
+        </ListView>
+    </Grid>
+</Page>
+

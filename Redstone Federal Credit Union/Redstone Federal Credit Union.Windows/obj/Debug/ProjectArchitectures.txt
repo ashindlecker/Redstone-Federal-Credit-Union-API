@@ -1,0 +1,4 @@
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\BackgroundBalanceTask\BackgroundBalanceTask.csproj;neutral
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\Redstone Federal Credit Union.Windows.csproj;neutral
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\RedstoneAPI.csproj;neutral
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\RedstoneAPI.csproj;neutral

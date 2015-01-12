@@ -1,0 +1,7 @@
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\bin\Debug\RedstoneAPI.dll
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\bin\Debug\RedstoneAPI.pdb
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\obj\Debug\RedstoneAPI.dll
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\obj\Debug\RedstoneAPI.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\bin\Debug\Newtonsoft.Json.xml

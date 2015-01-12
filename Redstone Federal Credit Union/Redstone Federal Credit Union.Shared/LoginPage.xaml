@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Redstone_Federal_Credit_Union.LoginPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Redstone_Federal_Credit_Union"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Width="Auto" Height="Auto">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Height="auto" Width="auto">
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Center" Margin="0,0,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" FontSize="66.667"/>
+        <TextBox x:Name="userText" HorizontalAlignment="Center" Margin="0,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="169" PlaceholderText="Username"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Center" Margin="0,181,0,0" TextWrapping="Wrap" Text="Username / MemberID" VerticalAlignment="Top"/>
+        <TextBlock x:Name="textBlock1_Copy" HorizontalAlignment="Center" Margin="0,249,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" ToolTipService.ToolTip="Password"/>
+        <PasswordBox x:Name="passText" HorizontalAlignment="Center" Margin="0,267,0,0" VerticalAlignment="Top" Width="169" PlaceholderText="Password"/>
+        <Button x:Name="button" Content="Login" HorizontalAlignment="Center" Margin="0,323,0,0" VerticalAlignment="Top" Click="login_click"/>
+        <TextBlock x:Name="errorText" HorizontalAlignment="Center" Margin="0,108,0,0" TextWrapping="Wrap" Text="Username or password is incorrect" VerticalAlignment="Top" Foreground="Red" Visibility="Collapsed"/>
+        <ProgressRing x:Name="progressRing" HorizontalAlignment="Center" Margin="0,380,0,0" VerticalAlignment="Top" Height="97" Width="115" IsActive="False" Background="{x:Null}"/>
+        <TextBlock x:Name="loadingText" HorizontalAlignment="Center" Margin="0,530,0,0" TextWrapping="Wrap" Text="Logging In..." VerticalAlignment="Top" Visibility="Collapsed" FontSize="15"/>
+    </Grid>
+</Page>

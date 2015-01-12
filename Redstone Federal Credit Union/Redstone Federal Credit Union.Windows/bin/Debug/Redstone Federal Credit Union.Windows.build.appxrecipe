@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AUSTIN</Machine>
+    <WindowsUser>Austin</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>329df1d2-6d54-4a6d-8c61-3abcf1fd2e4b</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Redstone Federal Credit Union.Windows.exe">
+      <PackagePath>Redstone Federal Credit Union.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\BackgroundBalanceTask\bin\Debug\BackgroundBalanceTask.winmd">
+      <PackagePath>BackgroundBalanceTask.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\bin\Debug\RedstoneAPI.dll">
+      <PackagePath>RedstoneAPI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPI\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\ConfirmationPage.xbf">
+      <PackagePath>ConfirmationPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\LoginPage.xbf">
+      <PackagePath>LoginPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\MemberPage.xbf">
+      <PackagePath>MemberPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\TransactionsPage.xbf">
+      <PackagePath>TransactionsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\Redstone Federal Credit Union.Windows.xr.xml">
+      <PackagePath>Redstone Federal Credit Union.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\Redstone Federal Credit Union\Redstone Federal Credit Union.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="329df1d2-6d54-4a6d-8c61-3abcf1fd2e4b" Publisher="CN=Austin" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>Redstone Federal Credit Union.Windows</DisplayName>
+    <PublisherDisplayName>Austin</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Redstone_Federal_Credit_Union.Windows.App">
+      <m2:VisualElements DisplayName="Redstone Federal Credit Union.Windows" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="Redstone Federal Credit Union.Windows" ForegroundText="light" BackgroundColor="#464646">
+        <m2:DefaultTile Wide310x150Logo="Assets\Wide310x150Logo.png">
+        </m2:DefaultTile>
+        <m2:LockScreen Notification="badgeAndTileText" BadgeLogo="Assets\BadgeLogo.png" />
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      </m2:VisualElements>
+      <Extensions>
+        <Extension Category="windows.backgroundTasks" EntryPoint="BackgroundBalanceTask.GrabBalanceTask">
+          <BackgroundTasks>
+            <Task Type="timer" />
+          </BackgroundTasks>
+        </Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

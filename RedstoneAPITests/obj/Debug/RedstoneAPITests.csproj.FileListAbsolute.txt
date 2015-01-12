@@ -1,0 +1,14 @@
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\RedstoneAPITests.exe.config
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\RedstoneAPITests.exe
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\RedstoneAPITests.pdb
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\RedstoneAPI.dll
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\RedstoneAPI.pdb
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\obj\Debug\RedstoneAPITests.csprojResolveAssemblyReference.cache
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\obj\Debug\RedstoneAPITests.exe
+c:\users\austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\obj\Debug\RedstoneAPITests.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\RedstoneAPITests\bin\Debug\HtmlAgilityPack.xml

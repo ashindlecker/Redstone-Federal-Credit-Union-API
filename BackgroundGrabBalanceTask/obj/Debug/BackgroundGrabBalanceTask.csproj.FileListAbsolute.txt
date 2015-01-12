@@ -1,0 +1,4 @@
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\BackgroundGrabBalanceTask\obj\Debug\BackgroundGrabBalanceTask.csprojResolveAssemblyReference.cache
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\BackgroundGrabBalanceTask\obj\Debug\BackgroundGrabBalanceTask.winmd
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\BackgroundGrabBalanceTask\obj\Debug\BackgroundGrabBalanceTask.winmdobj
+C:\Users\Austin\documents\visual studio 2015\Projects\Redstone Federal Credit Union\BackgroundGrabBalanceTask\obj\Debug\BackgroundGrabBalanceTask.compile.pdb
